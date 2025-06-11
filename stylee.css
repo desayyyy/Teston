@@ -120,17 +120,17 @@ header .fa-bars{
     max-width: 50rem;
 }
 .home .content h3{
-    font-size: 6rem;
+    font-size: 6.5rem;
     color:#dc143c;
 }
 .home .content span{
-    font-size: 2.5rem;
+    font-size: 3rem;
     color: blueviolet;
     padding:1rem 0;
     line-height: 1.5;
 }
 .home .content p{
-    font-size: 1.5rem;
+    font-size: 2rem;
     color: #999;
     padding: 1rem 0;
     line-height: 1.5;
@@ -259,7 +259,7 @@ header .fa-bars{
     color: #999;
 }
 .projects .box-container .box .content p{
-    font-size: 1.10rem;
+    font-size: 1.5rem;
     padding-top: 3.25%;
     padding-bottom: 5.5%;
     color: blueviolet;
@@ -421,9 +421,6 @@ header .fa-bars{
         font-size: 2.5rem;
     }
 
-    .projects .box-container .box .content p{
-        font-size: 1.5rem
-    }
     @media(max-width:400px){
 
     html{
